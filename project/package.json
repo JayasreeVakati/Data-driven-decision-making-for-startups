@@ -68,7 +68,7 @@
     "vaul": "^0.9.9",
     "zod": "^3.23.8"
   }
-}
+
 "homepage": "https://JayasreeVakati.github.io/Data-driven-decision-making-for-startups/"
 "scripts": {
   "start": "react-scripts start",
@@ -77,5 +77,6 @@
   "predeploy": "npm run build",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
+}
 }
 
