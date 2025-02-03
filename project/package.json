@@ -69,3 +69,13 @@
     "zod": "^3.23.8"
   }
 }
+"homepage": "https://JayasreeVakati.github.io/Data-driven-decision-making-for-startups/"
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "deploy": "gh-pages -d build",
+  "predeploy": "npm run build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+}
+
